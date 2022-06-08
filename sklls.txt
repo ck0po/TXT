@@ -1,0 +1,9 @@
+1) terminal & gitbash
+2) git
+3) postman
+4) sql
+5) sniffers
+6) HTTP methods ahd HTTP request
+7) DevTools
+8) JSON, XML
+

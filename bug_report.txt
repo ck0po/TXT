@@ -1,1 +1,16 @@
+1) 1title: Product 18+ is not added to the cart
+2) description: Items from the 18+ section will not be added by an authorized user over the age of 18
+3) versionapp: 1.1.1
+4) severity: critical
+5) priority: medium
+6) statusbug: new
+7) author: Lavrishev Evgenii
+8) environment: Windows 10 21H1, Google Chrome v.102.0.5005.63
+9) steps:
+    1. Go to adult products section
+    2. Open a card of any product from the section
+    3. Add item
+10) result
+    1. Expected Result:The product is added to the cart
+    2. ActualResult: Item not added to cart
 
